@@ -1,0 +1,13 @@
+E:\PersonCode\SSSpider\SSSpider\bin\Debug\SSSpider.exe.config
+E:\PersonCode\SSSpider\SSSpider\bin\Debug\SSSpider.exe
+E:\PersonCode\SSSpider\SSSpider\bin\Debug\SSSpider.pdb
+E:\PersonCode\SSSpider\SSSpider\obj\Debug\SSSpider.csprojResolveAssemblyReference.cache
+E:\PersonCode\SSSpider\SSSpider\obj\Debug\SSSpider.csproj.CoreCompileInputs.cache
+E:\PersonCode\SSSpider\SSSpider\obj\Debug\SSSpider.exe
+E:\PersonCode\SSSpider\SSSpider\obj\Debug\SSSpider.pdb
+E:\PersonCode\SSSpider\SSSpider\bin\Debug\HtmlAgilityPack.dll
+E:\PersonCode\SSSpider\SSSpider\bin\Debug\HtmlAgilityPack.pdb
+E:\PersonCode\SSSpider\SSSpider\bin\Debug\HtmlAgilityPack.xml
+E:\PersonCode\SSSpider\SSSpider\obj\Debug\SSSpider.csproj.CopyComplete
+E:\PersonCode\SSSpider\SSSpider\bin\Debug\Newtonsoft.Json.dll
+E:\PersonCode\SSSpider\SSSpider\bin\Debug\Newtonsoft.Json.xml
