@@ -1,7 +1,6 @@
 E:\PersonCode\SSSpider\SSSpider\bin\Debug\SSSpider.exe.config
 E:\PersonCode\SSSpider\SSSpider\bin\Debug\SSSpider.exe
 E:\PersonCode\SSSpider\SSSpider\bin\Debug\SSSpider.pdb
-E:\PersonCode\SSSpider\SSSpider\obj\Debug\SSSpider.csprojResolveAssemblyReference.cache
 E:\PersonCode\SSSpider\SSSpider\obj\Debug\SSSpider.csproj.CoreCompileInputs.cache
 E:\PersonCode\SSSpider\SSSpider\obj\Debug\SSSpider.exe
 E:\PersonCode\SSSpider\SSSpider\obj\Debug\SSSpider.pdb

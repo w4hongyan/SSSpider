@@ -2,6 +2,7 @@
 using SSSpider.Common;
 using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -16,6 +17,7 @@ namespace SSSpider
             string url ="https://en.ishadowx.net/";
             string html = HttpHelper.DownLoadString(url);
             GetAll(html);
+            Console.WriteLine("更新成功！");
             Console.ReadKey();
         }
         private static void GetAll(string html)
@@ -42,7 +44,7 @@ namespace SSSpider
             config.configs = configsItems;
             string json= JsonConvert.SerializeObject(config);
             string newjson = ConvertJsonString(json);
-            File.WriteAllText("F:\\Download\\ss-3.4.3\\gui-config.json", newjson);
+            File.WriteAllText(ConfigurationManager.AppSettings["configpath"], newjson);
         }
         private static string ConvertJsonString(string str)
         {
